@@ -55,3 +55,11 @@ The price variable also shows substantial variation. The average car price is ap
 </p>
 
 Figure 1 shows that newer cars generally have higher average prices compared to older vehicles. Cars manufactured from 2020 to 2024 have noticeably higher market values, while vehicles produced before 2015 tend to have lower average prices. This suggests that customers are willing to pay more for newer models because they often provide better technology, safety features, fuel efficiency, and overall vehicle condition.
+
+**Insight 2: Mileage and Car Price**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vylengocbbs23-maker/MIS-311/f5b7b9c14b6fa956350201644cf0dae2f25bbea3/Screenshot%202026-05-17%20231616.png" alt="Mileage vs Car Price" width="80%">
+</p>
+
+Figure 2 indicates a negative relationship between mileage and car price. Vehicles with lower mileage are usually sold at higher prices, while cars with higher mileage tend to have lower market values. This pattern suggests that buyers may associate heavily used vehicles with greater maintenance costs, reduced reliability, and shorter remaining lifespan, causing the selling price to decrease as mileage increases.
