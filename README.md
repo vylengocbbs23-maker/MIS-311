@@ -1,27 +1,35 @@
 # MIS 311 - Used Car Price Analysis
 
-## Project Overview
-This project analyses a used car price dataset to understand the factors that may affect the selling price of used vehicles.
+## Introduction to Business Analytics
 
-## Dataset
-The dataset contains information about used cars, including model, manufacturing year, mileage, color, type, fuel, and price.
+### Data Analysis and Insight
 
-## Tools Used
-- Microsoft Excel
-- Pivot Table
-- Descriptive Statistics
-- Data Visualization
+## Data Overview
+
+**Source of data:**
+Used car market dataset collected from online vehicle listings and automotive sales platforms.
+
+**Number of rows:**
+197 rows
+
+**Number of columns:**
+7 columns
+
+**The context:**
+The used car market is influenced by many factors such as manufacturing year, mileage, fuel type, and vehicle condition. This dataset provides information about different used cars and their selling prices. Analysing this data helps identify the factors that affect car prices and understand customer preferences in the used vehicle market. Such analysis is useful for buyers, sellers, and businesses because it supports pricing decisions and market evaluation.
+
+---
 
 ## Data Cleaning
-The dataset originally contained 203 rows and 7 columns. Five duplicate rows were removed first. After that, ten rows with missing values were deleted. The final cleaned dataset contains 188 rows and 7 columns.
 
-## Key Insights
-1. Newer cars generally have higher prices than older cars.
-2. Cars with higher mileage tend to have lower prices because they may require more maintenance.
+### Duplicate rows: 5 rows
 
-## Visualizations
-- Average Price by Manufacturing Year
-- Mileage vs Car Price
+Five duplicate rows were identified in the dataset. These duplicate records were removed because they do not provide additional information and may create statistical bias during analysis. Duplicate rows can affect descriptive statistics, reduce data reliability, and influence the accuracy of visualisations. Therefore, removing duplicate rows helps improve data consistency and analysis quality.
 
-## Conclusion
-The analysis shows that manufacturing year and mileage are important factors affecting used car prices. Newer cars usually have higher market values, while cars with higher mileage tend to have lower prices.
+After removing duplicate rows, the dataset contained 198 rows.
+
+### Missing values: 10 rows
+
+Several missing values were identified in the dataset, mainly in variables such as Color, Type, Fuel, and Year. In addition, a small number of missing values were found in the Price column. These incomplete rows were removed because missing information may reduce the accuracy and reliability of statistical analysis and visualisations. The missing rows account for approximately 5.05% of the remaining 198 rows, which is considered acceptable for removal without significantly affecting the overall dataset.
+
+After the cleaning process, the final dataset contained 188 rows and 7 columns, making the dataset cleaner and more suitable for further descriptive analysis and data visualisation.
