@@ -63,3 +63,9 @@ Figure 1 shows that newer cars generally have higher average prices compared to 
 </p>
 
 Figure 2 indicates a negative relationship between mileage and car price. Vehicles with lower mileage are usually sold at higher prices, while cars with higher mileage tend to have lower market values. This pattern suggests that buyers may associate heavily used vehicles with greater maintenance costs, reduced reliability, and shorter remaining lifespan, causing the selling price to decrease as mileage increases.
+
+## Conclusion
+
+This analysis explored the characteristics of the used car dataset using descriptive statistics and data visualisation techniques. The results show that manufacturing year and mileage are important factors affecting used car prices. Newer vehicles generally have higher market values, while cars with higher mileage tend to have lower selling prices.
+
+In addition, the dataset revealed a wide variation in both mileage and price, indicating differences in vehicle condition and market demand. Overall, descriptive statistics and visualisations helped provide a clearer understanding of pricing patterns in the used car market.
