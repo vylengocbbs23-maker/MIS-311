@@ -10,7 +10,7 @@
 Used car market dataset collected from online vehicle listings and automotive sales platforms.
 
 **Number of rows:**
-197 rows
+203 rows
 
 **Number of columns:**
 7 columns
