@@ -45,3 +45,9 @@ Table 1 presents the descriptive statistics of the used car dataset, including t
 The mileage statistics reveal considerable variation among vehicles. The average mileage is approximately 119,158 km, while the maximum mileage reaches 500,000 km. In addition, the high standard deviation indicates that the driving distances vary significantly across vehicles, meaning the dataset includes both lightly used and heavily used cars.
 
 The price variable also shows substantial variation. The average car price is approximately 1,037,487, while the median price is 750,000. Since the mean price is significantly higher than the median price, this suggests that several expensive vehicles increase the overall average price. Furthermore, the large standard deviation and positive skewness indicate that car prices are unevenly distributed, with a small number of high-priced vehicles influencing the dataset.
+
+## Insights
+
+**Insight 1:**
+
+
