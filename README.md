@@ -48,6 +48,10 @@ The price variable also shows substantial variation. The average car price is ap
 
 ## Insights
 
-**Insight 1:**
+**Insight 1: Manufacturing Year and Car Price**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vylengocbbs23-maker/MIS-311/2a65ddd059936eee73de26e8f12bc571ef2a8479/Screenshot%202026-05-17%20231410.png" alt="Average Price by Manufacturing Year" width="80%">
+</p>
 
+Figure 1 shows that newer cars generally have higher average prices compared to older vehicles. Cars manufactured from 2020 to 2024 have noticeably higher market values, while vehicles produced before 2015 tend to have lower average prices. This suggests that customers are willing to pay more for newer models because they often provide better technology, safety features, fuel efficiency, and overall vehicle condition.
