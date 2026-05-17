@@ -36,7 +36,9 @@ After the cleaning process, the final dataset contained 188 rows and 7 columns, 
 
 ## Descriptive Statistics
 
-![Descriptive Statistics](Screenshot 2026-05-17 224247.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vylengocbbs23-maker/MIS-311/ad97bc77f54c8bb52d629763828317e84ab8efe0/Screenshot%202026-05-17%20224247.png" alt="Descriptive Statistics" width="80%">
+</p>
 
 Table 1 presents the descriptive statistics of the used car dataset, including the variables Year, Km/h, and Price. The average manufacturing year is approximately 2016, while the median year is 2017, indicating that most vehicles in the dataset are relatively modern used cars. The minimum and maximum values show that the cars were manufactured between 2009 and 2024, suggesting a wide range of vehicle ages and conditions in the market.
 
